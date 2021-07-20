@@ -13,3 +13,6 @@ C:\Users\jgulledge\Documents\Code\PersonalProjects\SuperAdventure\SuperAdventure
 C:\Users\jgulledge\Documents\Code\PersonalProjects\SuperAdventure\SuperAdventure\obj\Debug\netcoreapp3.1\SuperAdventure.dll
 C:\Users\jgulledge\Documents\Code\PersonalProjects\SuperAdventure\SuperAdventure\obj\Debug\netcoreapp3.1\SuperAdventure.pdb
 C:\Users\jgulledge\Documents\Code\PersonalProjects\SuperAdventure\SuperAdventure\obj\Debug\netcoreapp3.1\SuperAdventure.genruntimeconfig.cache
+C:\Users\jgulledge\Documents\Code\PersonalProjects\SuperAdventure\SuperAdventure\bin\Debug\netcoreapp3.1\Engine.dll
+C:\Users\jgulledge\Documents\Code\PersonalProjects\SuperAdventure\SuperAdventure\bin\Debug\netcoreapp3.1\Engine.pdb
+C:\Users\jgulledge\Documents\Code\PersonalProjects\SuperAdventure\SuperAdventure\obj\Debug\netcoreapp3.1\SuperAdventure.csproj.CopyComplete

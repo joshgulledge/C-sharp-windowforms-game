@@ -1,0 +1,9 @@
+C:\Users\jgulledge\Documents\Code\PersonalProjects\SuperAdventure\Engine\bin\Debug\netcoreapp3.1\Engine.deps.json
+C:\Users\jgulledge\Documents\Code\PersonalProjects\SuperAdventure\Engine\bin\Debug\netcoreapp3.1\Engine.dll
+C:\Users\jgulledge\Documents\Code\PersonalProjects\SuperAdventure\Engine\bin\Debug\netcoreapp3.1\Engine.pdb
+C:\Users\jgulledge\Documents\Code\PersonalProjects\SuperAdventure\Engine\obj\Debug\netcoreapp3.1\Engine.csprojAssemblyReference.cache
+C:\Users\jgulledge\Documents\Code\PersonalProjects\SuperAdventure\Engine\obj\Debug\netcoreapp3.1\Engine.AssemblyInfoInputs.cache
+C:\Users\jgulledge\Documents\Code\PersonalProjects\SuperAdventure\Engine\obj\Debug\netcoreapp3.1\Engine.AssemblyInfo.cs
+C:\Users\jgulledge\Documents\Code\PersonalProjects\SuperAdventure\Engine\obj\Debug\netcoreapp3.1\Engine.csproj.CoreCompileInputs.cache
+C:\Users\jgulledge\Documents\Code\PersonalProjects\SuperAdventure\Engine\obj\Debug\netcoreapp3.1\Engine.dll
+C:\Users\jgulledge\Documents\Code\PersonalProjects\SuperAdventure\Engine\obj\Debug\netcoreapp3.1\Engine.pdb

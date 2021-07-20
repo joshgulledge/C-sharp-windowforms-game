@@ -37,7 +37,6 @@ namespace SuperAdventure
             this.GoldDisplay = new System.Windows.Forms.Label();
             this.ExpDisplay = new System.Windows.Forms.Label();
             this.LevelDisplay = new System.Windows.Forms.Label();
-            this.btnTest = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -118,22 +117,11 @@ namespace SuperAdventure
             this.LevelDisplay.TabIndex = 8;
             this.LevelDisplay.Text = "0";
             // 
-            // btnTest
-            // 
-            this.btnTest.Location = new System.Drawing.Point(428, 225);
-            this.btnTest.Name = "btnTest";
-            this.btnTest.Size = new System.Drawing.Size(112, 34);
-            this.btnTest.TabIndex = 9;
-            this.btnTest.Text = "button1";
-            this.btnTest.UseVisualStyleBackColor = true;
-            this.btnTest.Click += new System.EventHandler(this.btnTest_Click);
-            // 
             // SuperAdventure
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(713, 634);
-            this.Controls.Add(this.btnTest);
             this.Controls.Add(this.LevelDisplay);
             this.Controls.Add(this.ExpDisplay);
             this.Controls.Add(this.GoldDisplay);
@@ -159,7 +147,6 @@ namespace SuperAdventure
         private System.Windows.Forms.Label GoldDisplay;
         private System.Windows.Forms.Label ExpDisplay;
         private System.Windows.Forms.Label LevelDisplay;
-        private System.Windows.Forms.Button btnTest;
     }
 }
 
