@@ -1,0 +1,15 @@
+C:\Users\jgulledge\Documents\Code\PersonalProjects\SuperAdventure\SuperAdventure\bin\Debug\netcoreapp3.1\SuperAdventure.exe
+C:\Users\jgulledge\Documents\Code\PersonalProjects\SuperAdventure\SuperAdventure\bin\Debug\netcoreapp3.1\SuperAdventure.deps.json
+C:\Users\jgulledge\Documents\Code\PersonalProjects\SuperAdventure\SuperAdventure\bin\Debug\netcoreapp3.1\SuperAdventure.runtimeconfig.json
+C:\Users\jgulledge\Documents\Code\PersonalProjects\SuperAdventure\SuperAdventure\bin\Debug\netcoreapp3.1\SuperAdventure.runtimeconfig.dev.json
+C:\Users\jgulledge\Documents\Code\PersonalProjects\SuperAdventure\SuperAdventure\bin\Debug\netcoreapp3.1\SuperAdventure.dll
+C:\Users\jgulledge\Documents\Code\PersonalProjects\SuperAdventure\SuperAdventure\bin\Debug\netcoreapp3.1\SuperAdventure.pdb
+C:\Users\jgulledge\Documents\Code\PersonalProjects\SuperAdventure\SuperAdventure\obj\Debug\netcoreapp3.1\SuperAdventure.csprojAssemblyReference.cache
+C:\Users\jgulledge\Documents\Code\PersonalProjects\SuperAdventure\SuperAdventure\obj\Debug\netcoreapp3.1\SuperAdventure.SuperAdventure.resources
+C:\Users\jgulledge\Documents\Code\PersonalProjects\SuperAdventure\SuperAdventure\obj\Debug\netcoreapp3.1\SuperAdventure.csproj.GenerateResource.cache
+C:\Users\jgulledge\Documents\Code\PersonalProjects\SuperAdventure\SuperAdventure\obj\Debug\netcoreapp3.1\SuperAdventure.AssemblyInfoInputs.cache
+C:\Users\jgulledge\Documents\Code\PersonalProjects\SuperAdventure\SuperAdventure\obj\Debug\netcoreapp3.1\SuperAdventure.AssemblyInfo.cs
+C:\Users\jgulledge\Documents\Code\PersonalProjects\SuperAdventure\SuperAdventure\obj\Debug\netcoreapp3.1\SuperAdventure.csproj.CoreCompileInputs.cache
+C:\Users\jgulledge\Documents\Code\PersonalProjects\SuperAdventure\SuperAdventure\obj\Debug\netcoreapp3.1\SuperAdventure.dll
+C:\Users\jgulledge\Documents\Code\PersonalProjects\SuperAdventure\SuperAdventure\obj\Debug\netcoreapp3.1\SuperAdventure.pdb
+C:\Users\jgulledge\Documents\Code\PersonalProjects\SuperAdventure\SuperAdventure\obj\Debug\netcoreapp3.1\SuperAdventure.genruntimeconfig.cache
