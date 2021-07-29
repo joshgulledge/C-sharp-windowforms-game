@@ -18,8 +18,10 @@ namespace SuperAdventure
         public SuperAdventure()
         {
             InitializeComponent();
-            _player = new Player ();
 
+            Location location = new Location(1, "Home", "This is your house.");
+
+            _player = new Player ();
             _player.CurrentHitPoints = 10;
             _player.MaximumHitPoints = 10;
             _player.Gold = 20;
